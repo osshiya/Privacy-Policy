@@ -46,7 +46,7 @@ App: **BYOIOT – Build Your Own IoT**
 
 ## Privacy Policy for BitDelivery Express
 
-_Last updated: June 13, 2025_
+_Last updated: June 25, 2025_
 
 Thank you for using **BitDelivery Express**. Your privacy is important to us. **BitDelivery Express** does not collect, store, or share any personal data. This Privacy Policy explains how the game uses your device features.
 
