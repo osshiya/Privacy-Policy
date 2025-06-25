@@ -1,4 +1,6 @@
 # Privacy Policy
+  * [BYOIOT](#privacy-policy-for-byoiot)
+  * [BitDelivery Express](#privacy-policy-for-bitdelivery-express)
 
 ## Privacy Policy for BYOIOT
 
@@ -63,19 +65,28 @@ BitDelivery Express uses your device's camera **only** to recognize body movemen
 - The camera feed **never leaves your device**
 - No photos or videos are recorded or stored
 
-### 3. No Internet or Server Connection
+### 3. Camera and Body Pose Usage
+
+This app uses your device's camera in real time to detect body movement using Apple's Vision framework. Specifically, it utilizes the [body and hand pose detection](https://developer.apple.com/documentation/vision#Body-and-hand-pose-detection) `VNDetectHumanBodyPoseRequest` API to identify key body points such as wrists, elbows, and nose.
+
+- No facial data, video, or images are collected or stored.
+- All processing is handled locally on-device.
+- No information is shared with third parties.
+- The app does not record, transmit, or retain any data from the camera.
+
+### 4. No Internet or Server Connection
 
 BitDelivery Express is a **fully offline game**:
 - No internet connection is required to play
 - No gameplay or user data is uploaded or synced
 - All interactions remain on your device
 
-### 4. Your Control
+### 5. Your Control
 
 You may disable camera access via your device settings, but gesture-based gameplay may not function without it.  
 We do not store any settings or preferences outside your device.
 
-### 5. Contact Us
+### 6. Contact Us
 
 If you have any questions about this Privacy Policy or the app, you can contact us at:
  
